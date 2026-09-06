@@ -1,0 +1,17 @@
+[
+    "brightness",
+    "frp",
+    "scan",
+    "track",
+    "hour",
+    "month",
+    "confidence_pct",
+    "daynight_num",
+    "detections_3d",
+    "detections_7d",
+    "detections_10d",
+    "detections_30d",
+    "distinct_active_days_30d",
+    "industrial_within_1_5km",
+    "natural_within_1_5km"
+]
